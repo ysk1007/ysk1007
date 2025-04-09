@@ -1,5 +1,7 @@
 ## Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ysk1007&show_icons=true&theme=dracula)
+https://github-readme-stats.vercel.app/api?username=ysk1007)&hide=stars,contribs&count_private=true&show_icons=true
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ysk1007&layout=compact&theme=dracula)
+https://github-readme-stats.vercel.app/api?username=ysk1007)&hide=stars,contribs&count_private=true
+
+https://github-readme-stats.vercel.app/api?username=ysk1007)&hide=stars,contribs
