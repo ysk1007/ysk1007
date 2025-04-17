@@ -36,7 +36,7 @@
 <div align="center">
 <h4 align="center">Me</h4>
 <div align="center/left">
-  <a href="https://instagram.com/alpox.dev">
+  <a href="https://instagram.com/okonys_">
     <img 
         src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/alpox.dev/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
