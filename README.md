@@ -1,5 +1,5 @@
 <h1 align="center">👋 SeongKwon Yoon</h1>
-<h3 align="center">적당히 코딩하고 열심히 놀자🧗</h3>
+<h3 align="center">지면서 배우자🧗</h3>
 
 <h4 align="center">Algorithm 🧑‍💻</h4>
 <div align="center">
